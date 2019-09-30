@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9d1d2f5ae19bfd14696565cb5f090235
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - espada: {instanceID: 0}
+  - emitter: {instanceID: 0}
+  - sistemaDeParticulas: {instanceID: 0}
+  - Sparks: {instanceID: 0}
+  - RunningParticles: {instanceID: 0}
+  - protect: {instanceID: 0}
+  - escudo: {instanceID: 0}
+  - CurEscudo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
